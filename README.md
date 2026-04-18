@@ -6,6 +6,7 @@
 ## 🛠️ Tech Stack
 
 ### 🧩 Languages
+
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -14,27 +15,34 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 ### ⚙️ Frameworks & Runtime
+
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 ### 🗄️ Databases & Storage
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MinIO](https://img.shields.io/badge/-MinIO-C82E1A?style=flat-square&logo=minio&logoColor=white)
 
 ### 🐳 DevOps & Tools
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🔎 Search
+
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ### 🧠 Machine Learning
+
 - Experienced in training and inference of machine learning models using Python (e.g., scikit-learn, TensorFlow, PyTorch).
 
+
 ### 🛠️ Backend Capabilities
+
 - RESTful API & microservices development
 - Authentication & authorization
 - Caching, background jobs, and message queues
@@ -45,10 +53,26 @@
 - Database design and optimization
 - Code review and collaboration
 
+### 🌐 Social Media Integration
+- Experienced in integrating with Google, YouTube, TikTok, Instagram, and Twitter APIs.
+- Not limited to authentication—handled content posting, data retrieval, and credential management in databases.
+
+### 🤖 WhatsApp Bot Development
+- Built WhatsApp bots using both official and unofficial APIs (e.g., WAHA and others).
+- Implemented features for automation, messaging, and integration with backend services.
 
 ## 📊 GitHub Stats
 
 <div align="center">
+
+### 📈 More Stats & Badges
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pramek008&theme=tokyonight&margin-w=10&no-frame=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pramek008&repo=awesome-project&theme=tokyonight" />
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=pramek008&combine_all_yearly_contributions=true&theme=tokyonight" />
+</div>
   <img src="https://github-readme-stats.vercel.app/api?username=pramek008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramek008&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
